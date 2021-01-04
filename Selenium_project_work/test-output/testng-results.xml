@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-04T11:49:55Z" name="Default suite" finished-at="2021-01-04T11:50:14Z" duration-ms="18811">
+    <groups>
+    </groups>
+    <test started-at="2021-01-04T11:49:55Z" name="Default test" finished-at="2021-01-04T11:50:14Z" duration-ms="18811">
+      <class name="com.testcases.PriceCompareTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testcases.PriceCompareTest@63376bed]" started-at="2021-01-04T11:49:55Z" name="setUp" finished-at="2021-01-04T11:49:59Z" duration-ms="3789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ComparePrice()[pri:0, instance:com.testcases.PriceCompareTest@63376bed]" started-at="2021-01-04T11:49:59Z" name="ComparePrice" finished-at="2021-01-04T11:50:13Z" duration-ms="13978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ComparePrice -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.testcases.PriceCompareTest@63376bed]" started-at="2021-01-04T11:49:59Z" name="beforeMethod" finished-at="2021-01-04T11:49:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testcases.PriceCompareTest@63376bed]" started-at="2021-01-04T11:50:13Z" name="tearDown" finished-at="2021-01-04T11:50:14Z" duration-ms="1029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.PriceCompareTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
